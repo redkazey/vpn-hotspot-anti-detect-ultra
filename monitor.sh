@@ -1,5 +1,5 @@
 #!/system/bin/sh
-# Monitor v4.7 - 2026 Edition
+# Monitor v4.8 - 2026 Edition
 LOG="/data/adb/vpn-hotspot.log"
 while true; do
     clear
