@@ -13,7 +13,7 @@ Módulo Magisk de alto desempenho para compartilhar internet VPN sem bloqueios d
 - **Botões de Volume:** Controle manual via Action Button no Magisk.
 
 ## 📥 Instalação
-1. Baixe o [Último Lançamento](github.com).
+1. Baixe o [Último Lançamento](https://github.com/redkazey/vpn-hotspot-anti-detect-ultra/releases/tag/4.8).
 2. Instale via Magisk App e reinicie.
 
 ## 🔄 Como atualizar?
