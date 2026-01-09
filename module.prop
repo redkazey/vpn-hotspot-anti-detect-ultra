@@ -5,4 +5,4 @@ versionCode=47
 author=RedKZ (Refined)
 description=NAT+FORWARD+MTU (Suporte Android 11-16) - 2026 Edition
 minMagisk=27000
-updateJson=
+updateJson=https://raw.githubusercontent.com/redkazey/vpn-hotspot-anti-detect-ultra/refs/heads/main/update.json
