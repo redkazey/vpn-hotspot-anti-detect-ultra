@@ -1,5 +1,5 @@
 #!/system/bin/sh
-# VPN Hotspot Anti-Detect v4.7 - FINAL 2026
+# VPN Hotspot Anti-Detect v4.8 - FINAL 2026
 
 MODDIR=${0%/*}
 LOG="/data/adb/vpn-hotspot.log"
