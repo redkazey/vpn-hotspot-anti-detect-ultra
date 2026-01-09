@@ -1,6 +1,6 @@
 #!/system/bin/sh
 LOG="/data/adb/vpn-hotspot.log"
-echo "$(date) - 🗑️ Desinstalando v4.7..." >> $LOG
+echo "$(date) - 🗑️ Desinstalando v4.8..." >> $LOG
 
 # Remove apenas as regras que o módulo inseriu
 iptables -t nat -D POSTROUTING -o tun+ -j MASQUERADE 2>/dev/null
