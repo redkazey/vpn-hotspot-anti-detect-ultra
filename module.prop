@@ -1,7 +1,7 @@
 id=share_vpn_hotspot
-name=VPN Hotspot Anti-Detect v4.7
-version=v4.7
-versionCode=47
+name=VPN Hotspot Anti-Detect v4.8
+version=v4.8
+versionCode=48
 author=RedKZ (Refined)
 description=NAT+FORWARD+MTU (Suporte Android 11-16) - 2026 Edition
 minMagisk=27000
