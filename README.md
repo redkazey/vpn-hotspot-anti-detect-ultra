@@ -23,7 +23,7 @@ Se você já tem o módulo instalado, o Magisk notificará quando uma nova vers�
 *Desenvolvido por RedKZ - 2026 Edition*
 
 
-Readme anrigo para não esquecer 😂 
+Readme antigo para não esquecer 😂 
 
 ================================================================================
 VPN HOTSPOT ANTI-DETECT v4.7 - JANEIRO 2026 (TODAS ALTERAÇÕES)
