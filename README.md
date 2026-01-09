@@ -1,4 +1,4 @@
-# 🚀 VPN Hotspot Anti-Detect Ultra v4.7 (2026)
+# 🚀 VPN Hotspot Anti-Detect Ultra v4.8 (2026)
 
 ![Magisk](img.shields.io)
 ![Android](img.shields.io)
